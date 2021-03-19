@@ -49,6 +49,10 @@ nav a:hover {
   text-decoration: underline;
 }
 
+ol li {
+  list-style-type: lower-alpha;
+}
+
 a {
   color: #8f2440;
   text-decoration: none;
