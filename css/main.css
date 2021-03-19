@@ -4,6 +4,7 @@ html {
   font-family: "PT Serif", serif;
   background-color: #c9b5ab;
   line-height: 1.5;
+  font-weight: normal;
 }
 
 *, *::before, *::after {
@@ -25,12 +26,13 @@ i {
   font-family: "PT Sans", sans-serif;
   color: #3f1622;
   font-size: 1.5rem;
-  font-style: bold;
+  font-weight: bold;
 }
 
 nav {
 font-family: "PT Sans", sans-serif;
 font-size: 1.125rem;
+font-weight: bold;
 }
 
 nav ol {
