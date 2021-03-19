@@ -15,7 +15,7 @@ img {
   width: 100%;
 }
 
-h1 , h2 {
+h1, h2 {
   font-family: "PT Sans", sans-serif;
   color: #3f1622;
   font-size: 1.5rem;
@@ -30,9 +30,9 @@ i {
 }
 
 nav {
-font-family: "PT Sans", sans-serif;
-font-size: 1.125rem;
-font-weight: bold;
+  font-family: "PT Sans", sans-serif;
+  font-size: 1.125rem;
+  font-weight: bold;
 }
 
 nav ol {
